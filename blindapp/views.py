@@ -5,4 +5,4 @@ from django.http import HttpResponse
 
 
 def index(request):
-    return HttpResponse("Hello, blindin_referral. You're are welcome to ask for referrals!")
+    return HttpResponse("Hello, welcome to blindin. You're welcome to ask for referrals!")
